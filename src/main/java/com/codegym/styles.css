@@ -1,0 +1,9 @@
+.table{
+    text-align: center;
+    border: 2px black;
+    border-radius: 3px;
+    font-size: 15px;
+    font-family: Chiller;
+    margin-left: 250px;
+    padding: 10px;
+}
